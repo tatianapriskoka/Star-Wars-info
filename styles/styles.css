@@ -6,7 +6,7 @@ html {
 }
 
 body {
-    background-image: url(/styles/img/background1.jpg);
+    background-image: url(../styles/img/background1.jpg);
     background-repeat: no-repeat;
     max-width: 100%;
     background-size: cover;
