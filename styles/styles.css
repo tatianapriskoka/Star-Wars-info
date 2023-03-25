@@ -1,0 +1,23 @@
+html {
+    scroll-behavior: smooth;
+    height: 100vh;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 30px;
+}
+
+body {
+    background-image: url(/styles/img/background1.jpg);
+    background-repeat: no-repeat;
+    max-width: 100%;
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+.info {
+    color: white;
+    padding-top: 10px;
+}
